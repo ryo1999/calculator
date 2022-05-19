@@ -1,0 +1,10 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.autoGuessEncoding": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }, //保存時にeslint走らす
+    "typescript.preferences.importModuleSpecifier": "non-relative"
+}
